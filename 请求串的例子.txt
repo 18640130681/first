@@ -1,0 +1,1 @@
+http://10.32.160.120:8080/TRMDataExchange/TRMDataExchange?type=dm&requestData=<?xml version="1.0" encoding="utf-8"?><page><common><function id="SubmitBarCode" version="2" ><parameters><proof_num>220182198605062915</proof_num><bar_code>1111111111111</bar_code><generation_time>2018-01-19 10:11:11</generation_time></parameters></function></common ></page>
