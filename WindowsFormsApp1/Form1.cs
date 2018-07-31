@@ -30,7 +30,7 @@ namespace WindowsFormsApp1
 
             //改动4
 
-            //本地
+            //远程
         }
     }
 }
