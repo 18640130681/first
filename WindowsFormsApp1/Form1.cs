@@ -19,6 +19,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //提示信息
             MessageBox.Show("abcdefg");
         }
     }
